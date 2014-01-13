@@ -7,6 +7,6 @@ describe Foo do
   end
 
   it "Bars" do
-    expect(foo.foo).to eq("Bar")
+    expect(foo.bar).to eq("Bar")
   end
 end
