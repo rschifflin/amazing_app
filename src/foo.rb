@@ -1,5 +1,5 @@
 class Foo
   def foo
-    "Foo"
+    "Bar"
   end
 end
